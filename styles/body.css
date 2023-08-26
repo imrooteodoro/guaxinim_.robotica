@@ -1,0 +1,14 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background:#06043E;
+    font-family:'MuseoModerno', cursive;
+    
+}

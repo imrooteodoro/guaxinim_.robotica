@@ -1,0 +1,22 @@
+
+.col-md-3{
+    border-radius: 10%;
+     background:#19174B;
+     margin:0.2rem;
+     text-align: justify;
+}
+.col-md-3 h4{
+    text-align: center;
+    font-weight: 800;
+    color:aqua;
+}
+.header1 {
+    color: white;
+    text-align: center;
+
+}
+
+.header1 h1 {
+    font-weight: 700;
+
+}

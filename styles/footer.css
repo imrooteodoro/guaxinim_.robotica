@@ -3,10 +3,26 @@
 }
 .fooinfo_network a{
     text-decoration: none;
-    color:#333; 
+    color:rgba(255, 255, 255, 0.5); 
     font-weight: 800;
 }
 .fooinfo_network a:hover{
+    text-decoration: none;
+    color:#0d89a8;
+    animation:0.5;
+}
+
+
+
+.fooinfo li{
+    list-style-type: none;
+}
+.fooinfo a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.5); 
+    font-weight: 800;
+}
+.fooinfo a:hover{
     text-decoration: none;
     color:#0d89a8;
     animation:0.5;

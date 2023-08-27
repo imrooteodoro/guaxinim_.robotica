@@ -12,3 +12,6 @@
     color: rgb(37, 111, 139);
   }
 
+  svg:hover path {
+    fill: #fce57e;
+}

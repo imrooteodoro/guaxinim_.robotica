@@ -1,6 +1,9 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+
 
 *{
     padding: 0;
@@ -8,7 +11,29 @@
 }
 
 body{
-    background:#06043E;
-    font-family:'MuseoModerno', cursive;
+    background:linear-gradient(120deg, #06043E, black, blueviolet );
+    font-family:'Share Tech Mono', monospace;
+   
+
+
+}
+.authors h4{
+    color:aqua;
     
+}
+.authors p{
+    color: azure;
+}
+
+.card{
+    margin: 1rem;
+    background:#19174B;
+    color: white;
+}
+.main{
+    background: url(/images/logo.svg);
+    background-repeat: no-repeat;
+    background-size:50%;
+    background-position-x:0;
+    background-position: 0, 0, 20;
 }

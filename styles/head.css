@@ -16,7 +16,18 @@
 
 }
 
-.header1 h1 {
-    font-weight: 700;
+.title::after{
+content:'|';
+margin-left:2px;
+opacity:1;
+animation: blink.7s infinite;
+}
+@keyframes blink{
+    0%{
+        opacity:1;
+    }
+    50%{
+        opacity:0;
+    }
 
 }

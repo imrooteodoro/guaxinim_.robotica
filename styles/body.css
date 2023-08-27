@@ -32,7 +32,7 @@ body{
     color: white;
 }
 .main{
-    background: url('images/guaxinim_black.svg');
+    background: url('/images/guaxinim_black.svg');
     background-repeat: no-repeat;
     background-size:30%;
     background-position-x:0;

@@ -32,7 +32,7 @@ body{
     color: white;
 }
 .main{
-    background: url('../images/black_red_eye.svg');
+    background: url('..images/black_red_eye.svg');
     background-repeat: no-repeat;
     background-size:30%;
     background-position-x:0;

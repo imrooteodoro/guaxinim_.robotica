@@ -9,13 +9,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family:'Share Tech Mono', monospace;
+    
 }
 
 body{
     background:linear-gradient(120deg, #06043E, black, blueviolet );
     font-family:'Share Tech Mono', monospace;
-   
-
 
 }
 .authors h4{
@@ -24,10 +24,27 @@ body{
 }
 .authors p{
     color: azure;
+    font-size:15px;
 }
 
 .card{
     margin: 1rem;
     background:#19174B;
     color: white;
+    text-align:left;
+}
+
+.card h4{
+    color:red;
+    font-size: 17px;
+    text-align: center;
+
+}
+.card p{
+    text-align:left;
+    font-size:15px;
+}
+
+.main{
+    box-shadow: 3rem #d5d5dd ;
 }

@@ -31,10 +31,3 @@ body{
     background:#19174B;
     color: white;
 }
-.main{
-    background: url('..images/black_red_eye.svg');
-    background-repeat: no-repeat;
-    background-size:30%;
-    background-position-x:0;
-    background-position: 0, 0, 50;
-}
